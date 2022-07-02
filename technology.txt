@@ -1,0 +1,51 @@
+Which one is the first search engine in internet?
+Archie
+Google
+Altavista
+WAIS
+Number of bits used by the IPv6 address?
+32 bits
+128 bits
+64 bits
+256 bits
+Which one is the first web browser invented in 1990?
+Internet Explorer
+Mosaic
+Nexus
+Mozilla
+Which of the following programming languages is used to create programs like applets?
+COBOL
+C Language
+BASIC
+Java
+First computer virus is known as?
+Creeper Virus
+Rabbit
+Elk Cloner
+SCA Virus
+Which one programming language is exclusively used for artifical intelligence?
+C
+Prolog
+Java
+J2EE 
+Firewall in computer is used for?
+Data Transmission
+Authentication
+Security
+Monitoring
+A dual layer Blue-ray Disc can store data up to?
+20 GB
+35 GB
+12 GB
+50 GB
+Which of the following is not an operating system?
+C
+DOS
+Mac
+Linux
+Which of the following is not a database management software?
+MySQL
+COBOL
+Oracle
+Sybase
+
